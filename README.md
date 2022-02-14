@@ -6,7 +6,7 @@ Quickly creates a component from other component.
 
 Create component command:
 
-\!\[Create Component\]\(images/create-component.gif\)
+![Create Component](images/create-component.gif)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
